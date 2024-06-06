@@ -15,7 +15,7 @@ This project contains simple producer and consumer programs for Apache Kafka wri
 1. Install the `confluent_kafka` library:
 
 ```bash
-pip install confluent_kafka`
+pip install confluent_kafka
 ```
 
 2. Ensure Apache Kafka and Zookeeper are running.
